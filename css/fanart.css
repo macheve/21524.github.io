@@ -1,0 +1,31 @@
+.info{margin: auto;}
+.info ul{ margin: auto;
+list-style-type: none;
+}
+
+.works{
+    background-color: #efefef;
+    margin: 40px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.works h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #aaaaaa;
+}
+/*.illustration:nth-child(odd){
+    flex-direction: row-reverse;
+}*/
+
+.illustlation{
+    text-align: center;
+}
+.illustlation section{
+    margin-bottom: 60px;
+    border-style: solid;
+    margin: 13rem;
+    padding: 2rem;
+    border-color: white;
+}
